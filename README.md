@@ -226,6 +226,14 @@ pip install pytest pytest-asyncio
 # Run test suite
 pytest tests/ -v
 ```
+---
+
+## 🚨 Known Limitations
+
+- ❌ No CAPTCHA bypass or authentication handling
+- ❌ No rate limiting (use responsibly)
+- ⚠️ Playwright requires significant memory for JS rendering
+- ⚠️ Some aggressive anti-bot measures may block scraping
 
 ---
 
