@@ -189,6 +189,13 @@ graph LR
 
 ---
 
+## 🦋 Screenshots
+<img width="1878" height="1068" alt="image" src="https://github.com/user-attachments/assets/8724cc6e-0d06-4009-9a18-b8b1fd8a1be0" />
+<img width="1865" height="1089" alt="image" src="https://github.com/user-attachments/assets/469fdca3-17fa-42cf-8891-64f43e1189bc" />
+
+
+---
+
 ## ⚙️ Configuration
 
 Customize behavior in `app/scraper.py`:
